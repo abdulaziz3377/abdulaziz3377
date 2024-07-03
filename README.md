@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdulaziz
-  About Me:
+ - About Me:
   -I am passionate about coding and constantly strive to improve my skills by keeping up-to-date with new technologies and best practices.
 
 <!---
